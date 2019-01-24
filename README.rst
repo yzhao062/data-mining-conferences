@@ -2,6 +2,7 @@ Data Mining Conferences
 =======================
 
 ----
+
 **Knowledge Discovery and Data Mining** (KDD) is an interdisciplinary area focusing
 upon methodologies for extracting useful knowledge from data [#ibmresearch]_.
 Different from machine learning, KDD is considered to be more practical and
@@ -16,6 +17,7 @@ To facilitate KDD related research, we create this repository with:
 
 1. 2019-2020 Data Mining Conferences
 ------------------------------------
+
 
 =================================================================================================  =====================  ===============  ==================  =================================  =============================  ===========================================================================================
 Conference                                                                                         Submission Deadline    Notification     Conference Date     Location                           Acceptance Rate (2018)         Website
@@ -35,11 +37,14 @@ IEEE International Conference on Data Engineering (ICDE 2020)                   
 2. Data Mining Conference Acceptance Rate (TBA)
 -----------------------------------------------
 
+
 Placeholder for now. Coming soon.
 
 
 3. Tips for Doing Good DM Research & Get it Published!
 ------------------------------------------------------
+
+
 `How to do good research, Get it published in SIGKDD and get it cited! <http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf>`_\ :
 a fantastic tutorial on SIGKDD'09 by Eamonn Keogh (UC Riverside).
 
