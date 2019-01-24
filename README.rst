@@ -51,5 +51,10 @@ a fantastic tutorial on SIGKDD'09 by Eamonn Keogh (UC Riverside).
 `Checklist for Revising a SIGKDD Data Mining Paper <https://web.cs.dal.ca/~eem/gradResources/KDD/Checklist%20for%20Revising%20a%20SIGKDD%20Data%20Mining%20Paper.pdf>`_\ :
 a consice checklist by Eamonn Keogh (UC Riverside).
 
+----
+
+References
+----------
+
 
 .. [#ibmresearch] IBM Research, 2018. Knowledge Discovery and Data Mining. https://researcher.watson.ibm.com/researcher/view_group.php?id=144
