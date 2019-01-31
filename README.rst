@@ -24,7 +24,7 @@ To facilitate KDD related research, we create this repository with:
 Conference                                                                                         Submission Deadline    Notification     Conference Date     Location                           Acceptance Rate (2018)         Website
 =================================================================================================  =====================  ===============  ==================  =================================  =============================  ===========================================================================================
 ACM SIGKDD International Conference on Knowledge discovery and data mining (KDD)                   Feb 09, 2019           Apr 28, 2019     Aug 04-08, 2019     Anchorage, Alaska, USA             18.3% (research) & 22.5% (ds)  `Link <https://www.kdd.org/kdd2019/>`_
-European Conference on Machine learning and knowledge discovery in databases (ECML/PKDD)           Apr 05, 2019           Jun 07, 2019     Sep 16-20, 2019     Würzburg, Germany                  25%                            `Link <http://www.ecmlpkdd2019.org/>`_
+European Conference on Machine learning and knowledge discovery in databases (ECML PKDD)           Apr 05, 2019           Jun 07, 2019     Sep 16-20, 2019     Würzburg, Germany                  25%                            `Link <http://www.ecmlpkdd2019.org/>`_
 IEEE International Conference on Data Mining (ICDM)                                                Jun 05, 2019           Aug 08, 2019     Nov 08-11, 2019     Beijing, China                     19.8%                          `Link <http://icdm2019.bigke.org/>`_
 SIAM International Conference on Data Mining (SDM)                                                 TBA                    TBA              TBA                 TBA                                22.9%                          TBA
 ACM International Conference on Information and Knowledge Management (CIKM)                        TBA                    TBA              TBA                 TBA                                17%                            TBA
@@ -56,6 +56,9 @@ ICDM '16*\                                       19.6% (178/904, overall), 8.6% 
 CIKM '18                                         17% (147/826, long paper), 23% (96/413, short paper), 25% (demo), 34% (industry paper)       Short papers are presented at poster sessions
 CIKM '17                                         20% (171/855, long paper), 28% (119/419, short paper), 38% (30/80, demo paper)               Short papers are presented at poster sessions
 CIKM '16                                         23% (160/701, long paper), 24% (55/234, short paper), 54 extended short papers (6 pages)     Short papers are presented at poster sessions
+ECML PKDD '18                                    26% (94/354, research track), 26% (37/143, applied ds track), 15% (23/151, journal track)    N/A
+ECML PKDD '17                                    28% (104/364)                                                                                N/A
+ECML PKDD '16                                    28% (100/353)                                                                                N/A
 ===============================================  ===========================================================================================  ==============================================================================
 
 *\ ICDM has two tracks (regular paper track and short paper track), but the exact statistic is not released, e.g., the split between these two tracks.
