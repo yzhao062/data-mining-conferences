@@ -17,7 +17,9 @@ To facilitate KDD related research, we create this repository with:
 * Historical data mining (DM) conference acceptance rate
 * Publication tips from field experts
 
+
 ----
+
 
 1. 2019-2020 Data Mining Conferences
 ------------------------------------
@@ -37,7 +39,9 @@ The Web Conference (**WWW**)                                                    
 IEEE International Conference on Data Engineering (**ICDE**)                                       TBA                    TBA              TBA                 TBA                                18%                            TBA
 =================================================================================================  =====================  ===============  ==================  =================================  =============================  ===========================================================================================
 
+
 ----
+
 
 2. Data Mining Conference Acceptance Rate
 -----------------------------------------
@@ -73,10 +77,13 @@ See `ICDM Acceptance Rates <http://www.cs.uvm.edu/~icdm/ICDMAcceptanceRates.shtm
 
 ^\ All accepted WSDM papers are associated with an interactive poster presentation in addition to oral presentations.
 
+
 ----
+
 
 3. Conference Ranking (work-in-progress)
 ----------------------------------------
+
 
 =================================================================================================  =====================  ===============  ==================  =================================
 Conference                                                                                         CORE (2018)            Qualis (2016)    CCF (2015)          ERA (2010)
@@ -103,7 +110,7 @@ Source and ranking explanation:
 ----
 
 
-3. Tips for Doing Good DM Research & Get it Published!
+4. Tips for Doing Good DM Research & Get it Published!
 ------------------------------------------------------
 
 
