@@ -59,11 +59,16 @@ CIKM '16                                         23% (160/701, long paper), 24% 
 ECML PKDD '18                                    26% (94/354, research track), 26% (37/143, applied ds track), 15% (23/151, journal track)    N/A
 ECML PKDD '17                                    28% (104/364)                                                                                N/A
 ECML PKDD '16                                    28% (100/353)                                                                                N/A
+WSDM '18                                         16.1% (84/514 in which 3 papers are withdrawn/rejected after the acceptance)                 28.4% (23/81, long presentation), 71.6% (58/81, short presentation)^\
+WSDM '17                                         15.8% (80/505)                                                                               30% (24/80, long presentation), 70% (56/80, short presentation)^\
+WSDM '16                                         18.2% (67/368)                                                                               29.8% (20/67, long presentation), 70.2% (47/67, short presentation)^\
+WSDM '15                                         16.4% (39/238)                                                                               53.8% (21/39, long presentation), 46.2% (18/39, short presentation)^\
 ===============================================  ===========================================================================================  ==============================================================================
 
-*\ ICDM has two tracks (regular paper track and short paper track), but the exact statistic is not released, e.g., the split between these two tracks.
+*\ **ICDM** has two tracks (regular paper track and short paper track), but the exact statistic is not released, e.g., the split between these two tracks.
 See `ICDM Acceptance Rates <http://www.cs.uvm.edu/~icdm/ICDMAcceptanceRates.shtml>`_ for more information.
 
+^\ All accepted **WSDM** papers are associated with an interactive poster presentation in addition to oral presentations.
 
 ----
 
