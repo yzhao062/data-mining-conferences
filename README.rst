@@ -11,9 +11,9 @@ more closely tied with real-world applications.
 To facilitate KDD related research, we create this repository with:
 
 * Upcoming data mining (DM) conference submission date, notification date, and etc.
-* DM conference ranking by `CORE <http://www.core.edu.au/conference-portal>`_, ERA (2012),
+* DM conference ranking by `CORE (2018) <http://portal.core.edu.au/conf-ranks/>`_,
 `Qualis (2016) <https://www.capes.gov.br/images/documentos/Qualis_periodicos_2016/Qualis_conferencia_ccomp.pdf>`_,
-and `CCF <https://www.ccf.org.cn/xspj/gyml/>`_
+`CCF (2015) <https://www.ccf.org.cn/xspj/sjk/sjwj/nrjs/>`_, and ERA (2012)
 * Historical data mining (DM) conference acceptance rate
 * Publication tips from field experts
 
@@ -78,7 +78,27 @@ See `ICDM Acceptance Rates <http://www.cs.uvm.edu/~icdm/ICDMAcceptanceRates.shtm
 3. Conference Ranking (work-in-progress)
 ----------------------------------------
 
-Placeholder
+=================================================================================================  =====================  ===============  ==================  =================================
+Conference                                                                                         CORE (2018)            Qualis (2016)    CCF (2015)          ERA (2010)
+=================================================================================================  =====================  ===============  ==================  =================================
+ACM SIGKDD International Conference on Knowledge discovery and data mining (**KDD**)               A*\                    A1               A                   A
+European Conference on Machine learning and knowledge discovery in databases (**ECML PKDD**)       A                      A1               B                   A
+IEEE International Conference on Data Mining (**ICDM**)                                            A*\                    A1               B                   A
+SIAM International Conference on Data Mining (**SDM**)                                             A                      A1               B                   A
+ACM International Conference on Information and Knowledge Management (**CIKM**)                    A                      A1               B                   A
+ACM International Conference on Web Search and Data Mining (**WSDM**)                              A*\                    A1               B                   B
+Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**)                         A                      A2               C                   A
+The Web Conference (**WWW**)                                                                       A*\                    A1               A                   A
+IEEE International Conference on Data Engineering (**ICDE**)                                       A*\                    A1               A                   A
+=================================================================================================  =====================  ===============  ==================  =================================
+
+Source and ranking explanation:
+
+* `CORE (2018) <http://portal.core.edu.au/conf-ranks/>`_
+* `Qualis (2016) <https://www.capes.gov.br/images/documentos/Qualis_periodicos_2016/Qualis_conferencia_ccomp.pdf>`_
+* `CCF (2015) <https://www.ccf.org.cn/xspj/sjk/sjwj/nrjs/>`_
+* `ERA (2010) <http://www.conferenceranks.com/#data>`_
+
 
 ----
 
