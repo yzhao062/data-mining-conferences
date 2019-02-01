@@ -10,9 +10,12 @@ more closely tied with real-world applications.
 
 To facilitate KDD related research, we create this repository with:
 
-* Incoming data mining conference submission date, notification date, and more
-* Historical acceptance rate
-* Tips for publications
+* Upcoming data mining (DM) conference submission date, notification date, and etc.
+* DM conference ranking by `CORE <http://www.core.edu.au/conference-portal>`_, ERA (2012),
+`Qualis (2016) <https://www.capes.gov.br/images/documentos/Qualis_periodicos_2016/Qualis_conferencia_ccomp.pdf>`_,
+and `CCF <https://www.ccf.org.cn/xspj/gyml/>`_
+* Historical data mining (DM) conference acceptance rate
+* Publication tips from field experts
 
 ----
 
@@ -23,21 +26,21 @@ To facilitate KDD related research, we create this repository with:
 =================================================================================================  =====================  ===============  ==================  =================================  =============================  ===========================================================================================
 Conference                                                                                         Submission Deadline    Notification     Conference Date     Location                           Acceptance Rate (2018)         Website
 =================================================================================================  =====================  ===============  ==================  =================================  =============================  ===========================================================================================
-ACM SIGKDD International Conference on Knowledge discovery and data mining (KDD)                   Feb 09, 2019           Apr 28, 2019     Aug 04-08, 2019     Anchorage, Alaska, USA             18.3% (research) & 22.5% (ds)  `Link <https://www.kdd.org/kdd2019/>`_
-European Conference on Machine learning and knowledge discovery in databases (ECML PKDD)           Apr 05, 2019           Jun 07, 2019     Sep 16-20, 2019     Würzburg, Germany                  25%                            `Link <http://www.ecmlpkdd2019.org/>`_
-IEEE International Conference on Data Mining (ICDM)                                                Jun 05, 2019           Aug 08, 2019     Nov 08-11, 2019     Beijing, China                     19.8%                          `Link <http://icdm2019.bigke.org/>`_
-SIAM International Conference on Data Mining (SDM)                                                 TBA                    TBA              TBA                 TBA                                22.9%                          TBA
-ACM International Conference on Information and Knowledge Management (CIKM)                        TBA                    TBA              TBA                 TBA                                17%                            TBA
-ACM International Conference on Web Search and Data Mining (WSDM)                                  TBA                    TBA              TBA                 TBA                                16.3%                          TBA
-Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)                             TBA                    TBA              TBA                 TBA                                TBA                            TBA
-The Web Conference (WWW)                                                                           TBA                    TBA              TBA                 Taiwan                             15%                            `TBA <http://www.iw3c2.org/conferences/>`_
-IEEE International Conference on Data Engineering (ICDE)                                           TBA                    TBA              TBA                 TBA                                18%                            TBA
+ACM SIGKDD International Conference on Knowledge discovery and data mining (**KDD**)               **Feb 09, 2019**       Apr 28, 2019     Aug 04-08, 2019     Anchorage, Alaska, USA             18.3% (research) & 22.5% (ds)  `Link <https://www.kdd.org/kdd2019/>`_
+European Conference on Machine learning and knowledge discovery in databases (**ECML PKDD**)       **Apr 05, 2019**       Jun 07, 2019     Sep 16-20, 2019     Würzburg, Germany                  25%                            `Link <http://www.ecmlpkdd2019.org/>`_
+IEEE International Conference on Data Mining (**ICDM**)                                            **Jun 05, 2019**       Aug 08, 2019     Nov 08-11, 2019     Beijing, China                     19.8%                          `Link <http://icdm2019.bigke.org/>`_
+SIAM International Conference on Data Mining (**SDM**)                                             TBA                    TBA              TBA                 TBA                                22.9%                          TBA
+ACM International Conference on Information and Knowledge Management (**CIKM**)                    TBA                    TBA              TBA                 TBA                                17%                            TBA
+ACM International Conference on Web Search and Data Mining (**WSDM**)                              TBA                    TBA              TBA                 TBA                                16.3%                          TBA
+Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**)                         TBA                    TBA              TBA                 TBA                                TBA                            TBA
+The Web Conference (**WWW**)                                                                       TBA                    TBA              TBA                 Taiwan                             15%                            `TBA <http://www.iw3c2.org/conferences/>`_
+IEEE International Conference on Data Engineering (**ICDE**)                                       TBA                    TBA              TBA                 TBA                                18%                            TBA
 =================================================================================================  =====================  ===============  ==================  =================================  =============================  ===========================================================================================
 
 ----
 
-2. Data Mining Conference Acceptance Rate (Under Construction)
---------------------------------------------------------------
+2. Data Mining Conference Acceptance Rate
+-----------------------------------------
 
 
 ===============================================  ===========================================================================================  ==============================================================================
@@ -65,12 +68,20 @@ WSDM '16                                         18.2% (67/368)                 
 WSDM '15                                         16.4% (39/238)                                                                               53.8% (21/39, long presentation), 46.2% (18/39, short presentation)^\
 ===============================================  ===========================================================================================  ==============================================================================
 
-*\ **ICDM** has two tracks (regular paper track and short paper track), but the exact statistic is not released, e.g., the split between these two tracks.
+*\ ICDM has two tracks (regular paper track and short paper track), but the exact statistic is not released, e.g., the split between these two tracks.
 See `ICDM Acceptance Rates <http://www.cs.uvm.edu/~icdm/ICDMAcceptanceRates.shtml>`_ for more information.
 
-^\ All accepted **WSDM** papers are associated with an interactive poster presentation in addition to oral presentations.
+^\ All accepted WSDM papers are associated with an interactive poster presentation in addition to oral presentations.
 
 ----
+
+3. Conference Ranking (work-in-progress)
+----------------------------------------
+
+Placeholder
+
+----
+
 
 3. Tips for Doing Good DM Research & Get it Published!
 ------------------------------------------------------
