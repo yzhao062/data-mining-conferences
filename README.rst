@@ -11,9 +11,7 @@ more closely tied with real-world applications.
 To facilitate KDD related research, we create this repository with:
 
 * Upcoming data mining (DM) conference submission date, notification date, and etc.
-* DM conference ranking by `CORE (2018) <http://portal.core.edu.au/conf-ranks/>`_,
-`Qualis (2016) <https://www.capes.gov.br/images/documentos/Qualis_periodicos_2016/Qualis_conferencia_ccomp.pdf>`_,
-`CCF (2015) <https://www.ccf.org.cn/xspj/sjk/sjwj/nrjs/>`_, and ERA (2012)
+* DM conference ranking by `CORE (2018) <http://portal.core.edu.au/conf-ranks/>`_, `Qualis (2016) <https://www.capes.gov.br/images/documentos/Qualis_periodicos_2016/Qualis_conferencia_ccomp.pdf>`_, `CCF (2015) <https://www.ccf.org.cn/xspj/sjk/sjwj/nrjs/>`_, and ERA (2012)
 * Historical data mining (DM) conference acceptance rate
 * Publication tips from field experts
 
