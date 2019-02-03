@@ -3,16 +3,18 @@ Data Mining Conferences
 
 ----
 
-**Knowledge Discovery and Data Mining** (KDD) is an interdisciplinary area focusing
-upon methodologies for extracting useful knowledge from data [#ibmresearch]_.
-Different from machine learning, KDD is considered to be more practical and
-more closely tied with real-world applications.
+**Knowledge Discovery and Data Mining** is an interdisciplinary area focusing
+upon methodologies and applications for extracting useful knowledge from data.
+Different from machine learning, Knowledge Discovery and Data Mining (KDD) is
+considered to be more practical and more related with real-world applications.
+Some good examples include recommender systems, clustering, graph mining,
+anomaly detection, and ensemble learning.
 
 To facilitate KDD related research, we create this repository with:
 
-* Upcoming data mining (DM) conference submission date, notification date, and etc.
-* DM conference ranking by `CORE (2018) <http://portal.core.edu.au/conf-ranks/>`_, `Qualis (2016) <https://www.capes.gov.br/images/documentos/Qualis_periodicos_2016/Qualis_conferencia_ccomp.pdf>`_, `CCF (2015) <https://www.ccf.org.cn/xspj/sjk/sjwj/nrjs/>`_, and ERA (2012)
+* Upcoming data mining (DM) conference submission date, notification date, and etc. (`1. 2019-2020 Data Mining Conferences`_)
 * Historical data mining (DM) conference acceptance rate
+* DM conference ranking by `CORE (2018) <http://portal.core.edu.au/conf-ranks/>`_, `Qualis (2016) <https://www.capes.gov.br/images/documentos/Qualis_periodicos_2016/Qualis_conferencia_ccomp.pdf>`_, `CCF (2015) <https://www.ccf.org.cn/xspj/sjk/sjwj/nrjs/>`_, and ERA (2012)
 * Publication tips from field experts
 
 
