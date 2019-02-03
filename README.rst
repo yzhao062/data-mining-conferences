@@ -77,8 +77,8 @@ See `ICDM Acceptance Rates <http://www.cs.uvm.edu/~icdm/ICDMAcceptanceRates.shtm
 
 Conference stats are visualized below for a straightforward comparison.
 
-.. image:: https://raw.githubusercontent.com/yzhao062/data-mining-conferences/conference_stats.png
-   :target: https://raw.githubusercontent.com/yzhao062/data-mining-conferences/conference_stats.png
+.. image:: https://github.com/yzhao062/data-mining-conferences/blob/master/conference_stats.png
+   :target: https://github.com/yzhao062/data-mining-conferences/blob/master/conference_stats.png
    :alt: Conference Stats
 
 ----
