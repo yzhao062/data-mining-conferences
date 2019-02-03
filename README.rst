@@ -12,10 +12,18 @@ anomaly detection, and ensemble learning.
 
 To facilitate KDD related research, we create this repository with:
 
-* Upcoming data mining (DM) conference submission date, notification date, and etc. (`1. 2019-2020 Data Mining Conferences`_)
-* Historical data mining (DM) conference acceptance rate
-* DM conference ranking by `CORE (2018) <http://portal.core.edu.au/conf-ranks/>`_, `Qualis (2016) <https://www.capes.gov.br/images/documentos/Qualis_periodicos_2016/Qualis_conferencia_ccomp.pdf>`_, `CCF (2015) <https://www.ccf.org.cn/xspj/sjk/sjwj/nrjs/>`_, and ERA (2012)
-* Publication tips from field experts
+* **Upcoming data mining (DM) conference** submission date, notification date, and etc.
+* **Historical conference acceptance rate**
+* **Conference ranking** by `CORE (2018) <http://portal.core.edu.au/conf-ranks/>`_, `Qualis (2016) <https://www.capes.gov.br/images/documentos/Qualis_periodicos_2016/Qualis_conferencia_ccomp.pdf>`_, `CCF (2015) <https://www.ccf.org.cn/xspj/sjk/sjwj/nrjs/>`_, and ERA (2012)
+* **Publication tips** from field experts
+
+
+**Table of Contents**\ :
+
+* `1. 2019-2020 Data Mining Conferences`_
+* `2. Data Mining Conference Acceptance Rate`_
+* `3. Conference Ranking`_
+* `4. Tips for Doing Good DM Research & Get it Published!`_
 
 
 ----
