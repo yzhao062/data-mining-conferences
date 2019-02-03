@@ -75,6 +75,11 @@ See `ICDM Acceptance Rates <http://www.cs.uvm.edu/~icdm/ICDMAcceptanceRates.shtm
 
 ^\ All accepted WSDM papers are associated with an interactive poster presentation in addition to oral presentations.
 
+Conference stats are visualized below for a straightforward comparison.
+
+.. image:: https://raw.githubusercontent.com/yzhao062/data-mining-conferences/conference_stats.png
+   :target: https://raw.githubusercontent.com/yzhao062/data-mining-conferences/conference_stats.png
+   :alt: Conference Stats
 
 ----
 
