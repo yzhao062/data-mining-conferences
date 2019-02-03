@@ -4,7 +4,7 @@ Data Mining Conferences
 ----
 
 **Knowledge Discovery and Data Mining** is an interdisciplinary area focusing
-upon methodologies and applications for extracting useful knowledge from data.
+upon methodologies and applications for extracting useful knowledge from data [#ibmresearch]_.
 Different from machine learning, Knowledge Discovery and Data Mining (KDD) is
 considered to be more practical and more related with real-world applications.
 Some good examples include recommender systems, clustering, graph mining,
