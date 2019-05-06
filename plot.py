@@ -14,7 +14,7 @@ import matplotlib
 matplotlib.rcParams['mathtext.fontset'] = 'cm'
 matplotlib.rcParams['font.family'] = 'STIXGeneral'
 
-n_groups = 6
+n_groups = 7
 
 submitted_2016 = np.asarray([784, 370, 904, 701, 353, 368, 307])
 accepted_2016 = np.asarray([142, 96, 178, 160, 100, 67, 91])
