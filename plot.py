@@ -16,18 +16,18 @@ matplotlib.rcParams['font.family'] = 'STIXGeneral'
 
 n_groups = 6
 
-submitted_2016 = np.asarray([784, 370, 904, 701, 353, 368])
-accepted_2016 = np.asarray([142, 96, 178, 160, 100, 67])
+submitted_2016 = np.asarray([784, 370, 904, 701, 353, 368, 307])
+accepted_2016 = np.asarray([142, 96, 178, 160, 100, 67, 91])
 rejected_2016 = submitted_2016 - accepted_2016
 accp_rate_2016 = np.rint((accepted_2016 / submitted_2016) * 100).astype(int)
 
-submitted_2017 = np.asarray([748, 358, 778, 855, 364, 505])
-accepted_2017 = np.asarray([130, 93, 155, 171, 104, 80])
+submitted_2017 = np.asarray([748, 358, 778, 855, 364, 505, 458])
+accepted_2017 = np.asarray([130, 93, 155, 171, 104, 80, 129])
 rejected_2017 = submitted_2017 - accepted_2017
 accp_rate_2017 = np.rint((accepted_2017 / submitted_2017) * 100).astype(int)
 
-submitted_2018 = np.asarray([983, 374, 948, 826, 354, 514])
-accepted_2018 = np.asarray([181, 86, 188, 147, 94, 84])
+submitted_2018 = np.asarray([983, 374, 948, 826, 354, 514, 592])
+accepted_2018 = np.asarray([181, 86, 188, 147, 94, 84, 164])
 rejected_2018 = submitted_2018 - accepted_2018
 accp_rate_2018 = np.rint((accepted_2018 / submitted_2018) * 100).astype(int)
 
@@ -123,7 +123,7 @@ ax.set_xlabel('Major Data Minining Conferences', fontsize=15)
 ax.set_ylabel('# Papers & Acceptance Rate', fontsize=15)
 ax.set_title('Conference Statistics (2016-2018)', fontsize=18)
 ax.set_xticks(index + bar_width)
-ax.set_xticklabels(('KDD', 'SDM', 'ICDM', 'CIKM', 'PKDD', 'WSDM'))
+ax.set_xticklabels(('KDD', 'SDM', 'ICDM', 'CIKM', 'PKDD', 'WSDM', 'PAKDD'))
 ax.legend()
 
 
