@@ -39,8 +39,9 @@ Conference                                                                      
 European Conference on Machine learning and knowledge discovery in databases (**ECML PKDD**)       **Apr 05, 2019**       Jun 07, 2019     Sep 16-20, 2019     Würzburg, Germany                  25%                            `Link <https://www.ecmlpkdd2019.org/>`_
 ACM International Conference on Information and Knowledge Management (**CIKM**)                    **May 15, 2019**       Aug 06, 2019     Nov 03-07,2019      Beijing, China                     17%                            `Link <http://www.cikm2019.net/>`_
 IEEE International Conference on Data Mining (**ICDM**)                                            **Jun 05, 2019**       Aug 08, 2019     Nov 08-11, 2019     Beijing, China                     19.8%                          `Link <https://icdm2019.bigke.org/>`_
+IEEE International Conference on Data Engineering (**ICDE**) [**First Round**]                     **Jun 05, 2019**       Aug 08, 2019     Apr 20-24, 2020     Dallas, Texas, USA                 18%                            `Link <https://www.utdallas.edu/icde/index.html>`_
 ACM SIGMOD/PODS Conference (**SIGMOD**)                                                            Jul, 2019 (TBA)        TBA              TBA                 Portland, Oregon, USA              18%                            `Link <https://sigmod2020.org>`_
-IEEE International Conference on Data Engineering (**ICDE**)                                       Multiple Rounds        TBA              TBA                 TBA                                18%                            TBA
+IEEE International Conference on Data Engineering (**ICDE**) [**Second Round**]                    **Oct 08, 2019**       Dec 14, 2019     Apr 20-24, 2020     Dallas, Texas, USA                 18%                            `Link <https://www.utdallas.edu/icde/index.html>`_
 ACM International Conference on Web Search and Data Mining (**WSDM**)                              Aug, 2019 (TBA)        Oct, 2019 (TBA)  TBA                 TBA                                16.3%                          TBA
 SIAM International Conference on Data Mining (**SDM**)                                             Oct, 2019 (TBA)        Dec, 2019 (TBA)  TBA                 TBA                                22.9%                          TBA
 Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**)                         Oct, 2019 (TBA)        Dec, 2019 (TBA)  TBA                 TBA                                27.8%                          TBA
@@ -148,3 +149,6 @@ References
 
 
 .. [#ibmresearch] IBM Research, 2018. Knowledge Discovery and Data Mining. https://researcher.watson.ibm.com/researcher/view_group.php?id=144
+
+
+Last updated @ May 12th, 2019
