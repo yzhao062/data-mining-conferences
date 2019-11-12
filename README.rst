@@ -142,7 +142,7 @@ a fantastic tutorial on SIGKDD'09 by Prof. Eamonn Keogh (UC Riverside).
 `Checklist for Revising a SIGKDD Data Mining Paper <https://web.cs.dal.ca/~eem/gradResources/KDD/Checklist%20for%20Revising%20a%20SIGKDD%20Data%20Mining%20Paper.pdf>`_\ :
 a concise checklist by Prof. Eamonn Keogh (UC Riverside).
 
-`How to Write and Publish Research Papers for the Premier Forums in Knowledge & Data Engineering <http://www.cs.uvm.edu/~xwu/PPT/Writing16-Web.pdf>`_\ :
+`How to Write and Publish Research Papers for the Premier Forums in Knowledge & Data Engineering <http://acsic.org/files/Writing16-Web.pdf>`_\ :
 a tutorial on how to structure data mining papers by Prof. Xindong Wu (University of Louisiana at Lafayette).
 
 ----
