@@ -69,6 +69,7 @@ SDM '19                                          22.7% (90/397)                 
 SDM '18                                          23.0% (86/374)                                                                                N/A
 SDM '17                                          26.0% (93/358)                                                                                N/A
 SDM '16                                          26.0% (96/370)                                                                                N/A
+ICDM '19*\                                       18.5% (194/1046, overall), 9.1% (95/?, regular paper), ?% (99/?, short paper)                 N/A
 ICDM '18*\                                       19.8% (188/948, overall), 8.9% (84/?, regular paper), ?% (104/?, short paper)                 N/A
 ICDM '17*\                                       19.9% (155/778, overall), 9.3% (72/?, regular paper), ?% (83/?, short paper)                  N/A
 ICDM '16*\                                       19.6% (178/904, overall), 8.6% (78/?, regular paper), ?% (100/?, short paper)                 N/A
@@ -109,7 +110,7 @@ Conference stats are visualized below for a straightforward comparison.
 
 
 =================================================================================================  =====================  ===============  ==================  =================================
-Conference                                                                                         CORE (2018)            Qualis (2016)    CCF (2015)          ERA (2010)
+Conference                                                                                         CORE (2018)            Qualis (2016)    CCF (2019)          ERA (2010)
 =================================================================================================  =====================  ===============  ==================  =================================
 ACM SIGKDD International Conference on Knowledge discovery and data mining (**KDD**)               A*\                    A1               A                   A
 European Conference on Machine learning and knowledge discovery in databases (**ECML PKDD**)       A                      A1               B                   A
@@ -126,7 +127,7 @@ Source and ranking explanation:
 
 * `CORE (2018) <http://portal.core.edu.au/conf-ranks/>`_
 * `Qualis (2016) <https://www.capes.gov.br/images/documentos/Qualis_periodicos_2016/Qualis_conferencia_ccomp.pdf>`_
-* `CCF (2015) <https://www.ccf.org.cn/xspj/sjk/sjwj/nrjs/>`_
+* `CCF (2019) <https://www.ccf.org.cn/xspj/sjk/sjwj/nrjs/>`_
 * `ERA (2010) <http://www.conferenceranks.com/#data>`_
 
 
