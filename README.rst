@@ -66,6 +66,7 @@ KDD '19                                          17.8% (321/1808)               
 KDD '18                                          18.4% (181/983, research track), 22.5% (112/497, applied data science track)                  59.1% (107/181, research track), 35.7% (40/112, applied data science track)
 KDD '17                                          17.4% (130/748, research track), 22.0% (86/390, applied data science track)                   49.2% (64/130, research track), 41.9% (36/86, applied data science track)
 KDD '16                                          18.1% (142/784, research track), 19.9% (66/331, applied data science track)                   49.3% (70/142, research track), 60.1% (40/66, applied data science track)
+SDM '21                                          21.3% (85/400)                                                                                N/A
 SDM '19                                          22.7% (90/397)                                                                                N/A
 SDM '18                                          23.0% (86/374)                                                                                N/A
 SDM '17                                          26.0% (93/358)                                                                                N/A
