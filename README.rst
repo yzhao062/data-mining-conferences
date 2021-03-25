@@ -157,4 +157,4 @@ References
 .. [#ibmresearch] IBM Research, 2018. Knowledge Discovery and Data Mining. https://researcher.watson.ibm.com/researcher/view_group.php?id=144
 
 
-Last updated @ May 12th, 2019
+Last updated @ 25 March, 2021
