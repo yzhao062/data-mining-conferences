@@ -78,6 +78,8 @@ CIKM '19                                         19.6% (202/1031, long paper), 2
 CIKM '18                                         17% (147/826, long paper), 23% (96/413, short paper), 25% (demo), 34% (industry paper)        Short papers are presented at poster sessions
 CIKM '17                                         20% (171/855, long paper), 28% (119/419, short paper), 38% (30/80, demo paper)                Short papers are presented at poster sessions
 CIKM '16                                         23% (160/701, long paper), 24% (55/234, short paper), 54 extended short papers (6 pages)      Short papers are presented at poster sessions
+ECML PKDD '20                                    19.1% (131, research track), 27.5% (65, applied ds track), 43.5% (10, demo)                   N/A
+ECML PKDD '19                                    18% (130/734 research and applied ds track)                                                   N/A
 ECML PKDD '18                                    26% (94/354, research track), 26% (37/143, applied ds track), 15% (23/151, journal track)     N/A
 ECML PKDD '17                                    28% (104/364)                                                                                 N/A
 ECML PKDD '16                                    28% (100/353)                                                                                 N/A
